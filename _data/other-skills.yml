@@ -1,0 +1,19 @@
+- name: Adobe InDesign
+  percentage: 95
+  color: info
+
+- name: Corel Draw
+  percentage: 60
+  color: success
+
+- name: Eagel
+  percentage: 70
+  color: dark
+
+- name: TinkerCad
+  percentage: 80
+  color:
+
+- name: Unity
+  percentage: 60
+  color: info
