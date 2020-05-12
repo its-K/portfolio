@@ -27,7 +27,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Kishore
-  image             : devel.jpg
+  image             : https://github.com/its-K/portfolio/devel.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : me@kishore.cc
