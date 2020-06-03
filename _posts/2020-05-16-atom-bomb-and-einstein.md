@@ -1,5 +1,5 @@
 ---
-title: Atomic bomb and Einstein
+title: Atomic Bomb and Einstein
 tags: [Science]
 style: fill
 color: secondary
